@@ -6,7 +6,7 @@
 
 # ── Deklarasi Variabel ──────────────────────────────────
 nama_lengkap = "ERLANGGA"      # Tipe: str
-nim          = "105841118122"    # Tipe: str
+nim          = "105841117022"    # Tipe: str
 jurusan      = "INFORMATIKA"     # Tipe: str
 semester     = 7                 # Tipe: int
 ipk          = 3.35              # Tipe: float (gunakan titik '.')
